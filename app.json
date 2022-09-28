@@ -1,7 +1,7 @@
 {
-      "name": "EXON ROBOT",
+      "name": "Tʜᴇ Sʜᴇɪʟᴅ",
       "description": "A Telegram group management bot.",
-      "logo": "https://telegra.ph/file/550a1524598af2578cbf3.jpg", 
+      "logo": "https://telegra.ph//file/311b2f9eb8590122838b4.jpg", 
       "keywords": [
          "telegram",
          "anime",
@@ -52,12 +52,12 @@
       "DATABASE_URL2": {
          "description": "Your one extra Mongo DataBase URI, Get one from mongodb.com",
          "required": true,
-         "value": "mongodb+srv://EXONTESTMONGO:EXONTESTMONGO@cluster0.bviw7ic.mongodb.net/?retryWrites=true&w=majority"
+         "value": "mongodb+srv://Danushkodi:Danushkodi022@cluster0.c67xf.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
       }, 
       "REDIS_URL": {
          "description": "Your Redis URL, Get one from redislabs.com",
          "required": true,
-         "value": "redis://Madharjoot:GuKhao123_@redis-12276.c275.us-east-1-4.ec2.cloud.redislabs.com:12276/Madharjoot"
+         "value": "redis-14893.c246.us-east-1-4.ec2.cloud.redislabs.com:14893"
       }, 
      "REM_BG_API_KEY": {
          "description": "From:- https://www.remove.bg/",
@@ -67,7 +67,7 @@
       "OWNER_ID": {
          "description": "Your Telegram User ID as an integer.",
          "required": true,
-         "value": "1452219013"
+         "value": "5065752827"
       },
       "BOT_ID": {
          "description": "Your Telegram Bot ID.",
@@ -76,42 +76,42 @@
       },
       "OWNER_USERNAME": {
          "description": "Your Telegram username without the @",
-         "value": "Abishnoi1M"
+         "value": "AANDAVAR8064"
       },
       "SUPPORT_CHAT": {
          "description": "The Telegram Support Group Where Users of your Bot can Go and ask their Questions.",
          "required": true,
-         "value": "AbishnoiMF"
+         "value": "SHEILDSUPPORT"
       },
      "UPDATES_CHANNEL": {
          "description": "The Telegram News/Update Channel Where Users of your Bot can Go and check updates by you.",
          "required": true,
-         "value": "Abishnoi_bots"
+         "value": "SHIELDUPDATE"
       },     
       "EVENT_LOGS": {
          "description": "Event logs CHANNEL to note down important bot level events, recommend to make this public. ex: '-123456'",
          "required": true,
-         "value": "-1001497222182"
+         "value": "-1001633028375"
       },
       "JOIN_LOGGER": {
          "description": "A CHANNEL  where bot will print who added it to what group, useful during debugging or spam handling.",
          "required": true,
-         "value": "-1001497222182"
+         "value": "-1001782584544"
       },      
       "TIME_API_KEY": {
          "description": "Required for timezone information. Get yours from https://timezonedb.com/api",
          "required": false,
-         "value": "5LB4TAKPEKZ0"
+         "value": "MSJ3HEFX2J1H"
       },
      "START_IMG": {
          "description": "A Start img link",
          "required": false,
-         "value": "https://telegra.ph/file/0191f2041ae33e11c1267.jpg"
+         "value": "https://telegra.ph//file/311b2f9eb8590122838b4.jpg"
       },
       "DEV_USERS": {
          "description": "Enter the IDs of the users who are the Developers of the Bot. If you are newbie and want help from us Itself, then keep the IDs as they are and add yours",
          "required": false,
-         "value": "1452219013"
+         "value": "5065752827"
       },
       "SPAMWATCH_API": {
          "description": "Spamwatch API Token, Get one from @SpamWatchBot.",
@@ -121,7 +121,7 @@
       "DRAGONS": {
          "description": "A space separated list of user IDs who you want to assign as sudo users.",
          "required": false,
-         "value": "1452219013"
+         "value": "5065752827"
       },
       "STRICT_GBAN": {
          "description": "Enforce gbans across new groups as well as old groups. When a gbanned user talks, he will be banned.",
@@ -130,17 +130,17 @@
       "DEMONS": {
          "description": "A space separated list of user IDs who can use Gban From Your Bot",
          "required": false,
-         "value": "1452219013"
+         "value": "1177190539 539479731 5411211921 1803475435"
       },
       "TIGERS": {
          "description": "A space separated list of user IDs who can not be banned by your Bot",
          "required": false,
-         "value": "1452219013"
+         "value": "5065752827"
       },
       "WOLVES": {
          "description": "A space separated list of user IDs who you want to assign as whitelisted - can't be banned with your bot.",
          "required": false,
-         "value": "1452219013"
+         "value": "5065752827"
       },
       "ENV": {
          "description": "Setting this to ANYTHING will enable environment variables. Leave it as it is",
@@ -159,7 +159,7 @@
       "DONATION_LINK": {
          "description": "Optional: link where you would like to receive donations. If you are a noob, better leave it linking to paul",
          "required": false,
-         "value": "https://t.me/Abishnoi1M"
+         "value": "https://t.me/AANDAVAR8064"
       },
       "MONGO_DB_URL": {
          "description": "Your Mongo DB URI",
@@ -194,7 +194,7 @@
       "ERROR_LOGS": {
          "description": "The ID of the Group where the bot will spam with shitty errors and techy stuff",
          "required": true,
-         "value": "-1001497222182"
+         "value": "-1001693503654"
       }
    },   
       "buildpacks": [
